@@ -4,8 +4,8 @@ import { Dropdown } from 'semantic-ui-react'
 const options = [
   {
     key: 0,
-    text: 'Bored?',
-    value: 'Bored',
+    text: 'Unmotivated?',
+    value: 'Unmotivated',
   },
   {
     key: 1,
@@ -24,8 +24,8 @@ const options = [
   },
   {
     key: 4,
-    text: 'Unmotivated?',
-    value: 'Unmotivated',
+    text: 'Bored?',
+    value: 'Bored',
   },
   {
     key: 5,

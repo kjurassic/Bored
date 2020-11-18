@@ -1,0 +1,83 @@
+{
+  "length": 13,
+  "solutions": [
+    {
+      "suggestion": "Make some mac and cheese",
+      "healthy": 3,
+      "delicious": 5,
+      "count": 0
+    },
+    {
+      "suggestion": "Order a pizza",
+      "healthy": 1,
+      "delicious": 10,
+      "count": 0
+    },
+    {
+      "suggestion": "Make spaghetti",
+      "healthy": 4,
+      "delicious": 8,
+      "count": 0
+    },   
+    {
+      "suggestion": "Try the first recipe you find on allrecipes.com",
+      "healthy": 0,
+      "delicious": 0,
+      "count": 0
+    },
+    {
+      "suggestion": "Leftovers!",
+      "healthy": 8,
+      "delicious": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Order from that vegan place",
+      "healthy": 8,
+      "delicious": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Screw it, let's get some fast food",
+      "healthy": 2,
+      "delicious": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Have you ever had ice cream for dinner?",
+      "healthy": 1,
+      "delicious": 10,
+      "count": 0
+    },
+    {
+      "suggestion": "I mean, I could go for some pancakes",
+      "healthy": 3,
+      "delicious": 9,
+      "count": 0
+    },
+    {
+      "suggestion": "When's the last time you made yourself an omelette?",
+      "healthy": 7,
+      "delicious": 6,
+      "count": 0
+    },
+    {
+      "suggestion": "Maybe we should do a salad",
+      "healthy": 9,
+      "delicious": 6,
+      "count": 0
+    },
+    {
+      "suggestion": "Nachos",
+      "healthy": 1,
+      "delicious": 10,
+      "count": 0
+    },
+    {
+      "suggestion": "Make a sandwich",
+      "healthy": 6,
+      "delicious": 6,
+      "count": 0
+    },
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "length": 13,
+  "solutions": [
+    {
+      "suggestion": "Play Guitar",
+      "active": 3,
+      "productive": 5,
+      "count": 0
+    },
+    {
+      "suggestion": "Play Xbox",
+      "active": 1,
+      "productive": 0,
+      "count": 0
+    },
+    {
+      "suggestion": "Watch a Movie",
+      "active": 0,
+      "productive": 0,
+      "count": 0
+    },   
+    {
+      "suggestion": "Start a new Show from your watch list",
+      "active": 0,
+      "productive": 0,
+      "count": 0
+    },
+    {
+      "suggestion": "Do 10 pushups, right now!",
+      "active": 8,
+      "productive": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Do 10 Squats, right now!",
+      "active": 8,
+      "productive": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Give me a plank for one minute",
+      "active": 8,
+      "productive": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Let's do 15 minutes of Yoga",
+      "active": 9,
+      "productive": 8,
+      "count": 0
+    },
+    {
+      "suggestion": "Let's go for a run",
+      "active": 10,
+      "productive": 9,
+      "count": 0
+    },
+    {
+      "suggestion": "Write a note to yourself",
+      "active": 1,
+      "productive": 6,
+      "count": 0
+    },
+    {
+      "suggestion": "Write a page for that novel you've been thinking about",
+      "active": 1,
+      "productive": 6,
+      "count": 0
+    },
+    {
+      "suggestion": "Try duolingo for 15 minutes",
+      "active": 1,
+      "productive": 6,
+      "count": 0
+    },
+    {
+      "suggestion": "Let's go for a walk",
+      "active": 6,
+      "productive": 6,
+      "count": 0
+    },
+  ]
+}
