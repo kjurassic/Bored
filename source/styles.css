@@ -1,5 +1,15 @@
 h1 {
+  font-size: x-large;
   color: white;
   background-color: black;
+  text-align: center;
+}
+
+#go {
+  background-color: rgb(63, 61, 182);
+
+}
+
+#results {
   text-align: center;
 }
